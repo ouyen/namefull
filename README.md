@@ -1,5 +1,6 @@
 # NameFull
-https://namefull.github.io
+
+ fork from https://namefull.github.io
 
 namefull--一个随机单词生成器
 
